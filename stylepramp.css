@@ -1,0 +1,77 @@
+#centrage{
+    padding:40px 0px 40px 0px;
+    margin-top: 50px;
+}
+
+#imagefond{
+    
+    background-image: linear-gradient(rgba(20,24,84,0.3),rgba(20,24,84,0.3)), url('tassecafe.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+#mesimages{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: #585858;
+    margin-bottom: 50px;
+    
+
+}
+
+.un{
+
+    border: 3px solid blue;
+    border-radius: 50%;
+    background-color: #fff;
+    padding: 20px 25px 20px 25px; 
+    color: blue;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+#element{
+    margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+<img src="tassecafe.jpg" alt="fond ecran" class="img-fluid" id="imagefond">  
+
+<div class=" ">
+            <img src="producthunt_v2.png" style="width: 40%;" alt="">
+            </div>  
+            
+            <div class="">
+            <img src="Forbes_Logo.png" style="width: 40%;" alt="">
+              
+            </div> 
+            
+            <div class="">
+            <img src="TechCrunch_Logo.png" style="width: 40%;" alt="">
+              
+            </div> 
+            
+            
+            <div class="">
+            <img src="BusinessInsider_Logo.png" style="width: 40%;" alt="">
+            </div>  
+            
+            <div class="">
+            <img src="Udacity_Logo.png" style="width: 40%;" alt="">
+              
+            </div>  
+            
+            <div class="">
+            <img src="Silicon_valley_business_journal_Logo1.png" style="width: 40%;" alt="">
+              
+            </div> 
